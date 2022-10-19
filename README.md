@@ -8,3 +8,4 @@
 aryangupta02092002/aryangupta02092002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![@aryangupta02092002's Holopin board](https://holopin.me/aryangupta02092002)](https://holopin.io/@aryangupta02092002)
