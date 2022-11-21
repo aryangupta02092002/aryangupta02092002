@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Aryan Gupta
 - 👀 I’m interested in Web Development and Android Development
 - 🌱 I’m currently learning Kotlin for Android Development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web and Android Development
 
 <!---
 aryangupta02092002/aryangupta02092002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
