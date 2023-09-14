@@ -31,6 +31,5 @@ Thanks for stopping by, and happy coding! 👩‍💻👨‍💻
 
 ---
 
-*Feel free to customize this README to reflect your own personality, experiences, and interests. Make sure to update the links and information to match your own online presence.*
 
 [![@aryangupta02092002's Holopin board](https://holopin.me/aryangupta02092002)](https://holopin.io/@aryangupta02092002)
