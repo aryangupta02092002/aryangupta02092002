@@ -18,6 +18,11 @@
 
 🛠️ **Skills**: I specialize in C++, Javascript(Web Development) and Kotlin(Android Development), and you'll find repositories related to these technologies and languages.
 
+##Github Stats
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryangupta02092002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="aryangupta02092002's Github Stats">
+</br>
+
 ## Connect with Me
 
 - 🐦 [Twitter](https://x.com/the_aryan__g?t=S7kiqaV9hPQpp56KfUN22Q&s=08): Follow me on Twitter to stay updated on my latest projects and tech-related thoughts.
