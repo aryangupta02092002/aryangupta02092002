@@ -7,7 +7,7 @@
 - 💻 I'm a Software Engineer with 1 year of experience.
 - 💻 I have working experience in Android App Development and Web Development.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech landscape.
-- 🔭 I'm currently working on Streamlit @[Weptex](https://weptex.tech/).
+- 🔭 I'm currently working on MERN Stack based projects @[Weptex](https://weptex.tech/).
 - 📚 I enjoy reading and writing tech blogs, participating in competitions from competitive programming to hackathons, and contributing to open-source projects.
 
 ## What You'll Find Here
